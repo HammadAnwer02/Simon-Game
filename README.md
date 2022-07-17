@@ -6,4 +6,5 @@ Who ever reaches the furthest wins!
 
 Have fun playing this with your friends!
 
-To play the game just open the index.html file on your favorite browser
+To play the game just open the index.html file on your favorite browser.
+Additionally you could go here as well: https://hammadanwer02.github.io/Simon-Game/
